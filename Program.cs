@@ -6,3 +6,4 @@
 
 Console.WriteLine((int)'122');
 Console.Write("Привет, мир!");
+5 + 3;
